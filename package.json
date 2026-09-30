@@ -1,0 +1,17 @@
+{
+  "name": "jazz-a57-writer-loses-nested-row",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "jazz-tools": "2.0.0-alpha.57"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.9"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}

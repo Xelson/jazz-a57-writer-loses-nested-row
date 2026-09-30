@@ -1,0 +1,5 @@
+# Neither build script is needed to run the tests: esbuild ships its binary as an
+# optional platform package, and protobufjs only prints a notice.
+allowBuilds:
+  esbuild: false
+  protobufjs: false
